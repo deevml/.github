@@ -1,7 +1,1 @@
-## Use.js
-
-Custom React Hooks
-
-
-## License
-Use.js is licensed under the MIT License
+> ⚠️ This is a personal project developed by [@andremalveira](http://github.com/andremalveira) that is still in beta/testing and is not publicly available for everyone to create their profile but if you want to test this app send an email to: andremalveira.dev@gmail.com
